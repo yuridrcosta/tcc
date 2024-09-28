@@ -1,0 +1,13 @@
+__pycache__/
+venv/
+.venv/
+stackexchange_database/
+dataset/
+save/
+data/
+my.log
+save_pid.txt
+PROCESSED_STACKOVERFLOW_LIST.txt
+embedding_vectors/
+test.ipynb
+dataset_original/
